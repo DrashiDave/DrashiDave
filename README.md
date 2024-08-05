@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-Welcome to my GitHub!<br><br>I'm a passionate Data Science graduate student with a knack for uncovering insights and making data-driven predictions. My journey in data science has been exciting, and I'm always eager to learn more and share my knowledge with others.<br><br>🎓 Graduate Student majoring in Data Science.<br>💼 Data Analyst Intern at Dinwell Engineers.<br>💻 Interested in Data Science Engineering and predictive analytics.<br>🌱 Continuously learning and growing in the field of data science.<br>
+Welcome to my GitHub!<br><br>I'm Drashi, a passionate Data Science graduate student with a knack for uncovering insights and making data-driven predictions. My journey in data science has been exciting, and I'm always eager to learn more and share my knowledge with others.<br><br>🎓 Graduate Student majoring in Data Science.<br>💼 Data Analyst Intern at Dinwell Engineers.<br>💻 Interested in Data Science Engineering and predictive analytics.<br>🌱 Continuously learning and growing in the field of data science.<br>
 
 
 ## 🌐 Socials:
