@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Drashi Dave</h1>
+<h2 align="center">Hi 👋, I'm Drashi Dave</h2>
 <h3 align="center">A Graduate student and a Data Science enthusiast.</h3>
 
 - 📫 How to reach me **drashi.usa1@gmail.com**
