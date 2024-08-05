@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **drashi.usa1@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1Za0d49-jZ-MZPlAO--pCEpuDkVB5KUV1?usp=sharing](https://drive.google.com/drive/folders/1Za0d49-jZ-MZPlAO--pCEpuDkVB5KUV1?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/drashi-d-6b3844241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="drashi-d-6b3844241" height="30" width="40" /></a>
